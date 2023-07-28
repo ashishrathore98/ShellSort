@@ -1,0 +1,8 @@
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\bin\Debug\ShellSort.exe.config
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\bin\Debug\ShellSort.exe
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\bin\Debug\ShellSort.pdb
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.AssemblyReference.cache
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.SuggestedBindingRedirects.cache
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\obj\Debug\ShellSort.csproj.CoreCompileInputs.cache
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\obj\Debug\ShellSort.exe
+D:\SimpliLearn Course\Assisted Project\ShellSort\ShellSort\obj\Debug\ShellSort.pdb
